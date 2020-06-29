@@ -1,0 +1,18 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./ASOInmateImageHandler.aspx?PicNo=ASO20MNI009799" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MTU2MzE5MDhkZNwWgT+5T731W1c6e+3IwgWdhv7Ver8suGKY/LHfXqxp" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F3B47A64" />
+    <img id="Image1" src="" />
+    <br />
+</form>
+</body>
+</html>
